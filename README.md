@@ -58,6 +58,10 @@ image-generator/
 ├── .gitignore
 ```
 
+## Visualisasi
+Berikut Tampilan Aplikasi
+![Tampilan Aplikasi](images/capture/capture_aplikasi.png)
+
 ---
 
 ## 📌 Catatan
